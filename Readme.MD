@@ -19,8 +19,6 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
-
 ## 🚨 Forking this repo (please read!)
 
 Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
